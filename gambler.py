@@ -1,4 +1,6 @@
 import random
+
+# Get user input
 stake  = int(input("stake="))
 goal   = int(input("goal="))
 trials = int(input("trials="))
