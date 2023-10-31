@@ -1,6 +1,7 @@
+# Import some functions that we need
 from math import sqrt, sin, cos, radians
 
-# Get inputs
+# Get inputs from the user
 alpha = float(input("What angle are you throwing at? [°]    "))
 v0 = float(input("What speed are you throwing at? [m/s]  "))
 h = float(input("What height are you throwing from? [m] "))
